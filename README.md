@@ -127,7 +127,7 @@ PathMate aims to make the transition into college life more accessible by connec
 
 **Theoudar Doss D**
 
-- GitHub: [@theoudar03](https://github.com/EclipseBorn)
+- GitHub: [EclipseBorn](https://github.com/EclipseBorn)
 - LinkedIn: [Connect on LinkedIn](https://www.linkedin.com/in/theoudar/)
 
 ---
